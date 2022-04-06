@@ -40,4 +40,4 @@
 
 ------
 
-[BrantLauro](https://github.com/talbertosilva)
+[Github](https://github.com/talbertosilva)    [Portfolio](https://talbertosilva.github.io/portfolio/)
