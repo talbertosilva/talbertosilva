@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
 <h3 align="center">A passionate UX/UI Designer and Front-End developer.</h3>
 
-- 🌱 Looking forward to learn three.js
+- 🌱 Currently learning ReactJS
 
 - 📫 How to reach me: **tiagoansilva.9@gmail.com**
 
