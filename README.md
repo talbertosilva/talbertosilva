@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tiago</h1>
+<h1 align="center">Hi 👋, I'm Tiago Silva</h1>
 <h3 align="center">Trainee Software Engineer - Frontend.</h3>
 
-- 🌱 Currently learning ReactJS
+- 🌱 Currently developing my frontend skills.
 
 - 📫 How to reach me: **tiagoansilva.9@gmail.com**
 
