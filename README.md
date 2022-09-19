@@ -31,6 +31,9 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://p5js.org/" target="_blank"> 
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F600%2F1*h9G7gjWQeQVwqkbhHVvOQg.png&f=1&nofb=1" alt="p5js" width="40" height="40"/> 
+  </a>
 </p>
 
 <p align= "center">
