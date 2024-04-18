@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=talbertosilva&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Last experience: Farfetch<br/> Coding with: React & TypeScript/JavaScript</p>
+<p>Last experience: <b>Farfetch</b><br/> Coding with: <b>React</b>, <b>TypeScript/JavaScript</b> and some complements with <b>Redux</b>, <b>Jest</b> and <b>Git</b><br/></p>
