@@ -2,6 +2,6 @@
 
 ### Hi, I'm Tiago!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=talbertosilva&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Last experience: Farfetch<br/> Coding with: React & TypeScript/JavaScript</p>
