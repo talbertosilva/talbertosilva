@@ -5,9 +5,3 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Last experience: Farfetch<br/> Coding with: React & TypeScript/JavaScript</p>
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=talbertosilva&theme=react&show_icons=true&include_all_commits=true" />
-</p>
-
-------
-
-[Github](https://github.com/talbertosilva)
